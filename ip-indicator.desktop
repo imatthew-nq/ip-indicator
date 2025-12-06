@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=IP Indicator
+Comment=System tray indicator showing local and public IP addresses
+Exec=python3 /home/matthew/github/ip-indicator/ip_indicator.py
+Icon=network-workgroup
+Terminal=false
+Categories=Network;Utility;
+StartupNotify=false
