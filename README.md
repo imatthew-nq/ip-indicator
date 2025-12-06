@@ -1,4 +1,4 @@
-# IP Indicator for Ubuntu 24.04
+# IP Indicator for Ubuntu Desktop
 
 A system tray indicator that displays your local and public IP addresses with a country flag emoji.
 
