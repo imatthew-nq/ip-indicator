@@ -22,7 +22,7 @@ A system tray indicator that displays your local and public IP addresses with a 
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:imatthew-nq/ip-indicator.git
 cd ip-indicator
 ```
 
